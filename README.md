@@ -1,1 +1,1 @@
-![Discord Profile](https://api-nyra.squareweb.app/wt9f/card)
+![Discord Profile](https://nogapi.squareweb.app/users/296656213033353228)
