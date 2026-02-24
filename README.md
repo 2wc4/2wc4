@@ -1,1 +1,1 @@
-![Discord](https://nogapi.squareweb.app/users/296656213033353228/card)
+![Discord](https://nogapi.squareweb.app/users/wt9f/card)
