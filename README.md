@@ -1,1 +1,1 @@
-![Discord](https://nogapi.squareweb.app/users/wt9f/card)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,lua,git,github,npm,vscode,ruby,ae,blender,figma,devto,nestjs,discord,html,nextjs,react,bsd,dart,elixir,fastapi,mongodb,obsidian,ps&perline=8)](https://skillicons.dev)
