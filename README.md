@@ -50,8 +50,6 @@ Atualmente estou evoluindo em áreas como <b>segurança de aplicações</b>, <b>
     <!-- Skills -->
     <td valign="top" width="50%" align="center">
       <img src="https://i.ibb.co/pvGcbbDs/nogui-tech.png"/><br><br>
-
-```
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,c,cpp,cs,ruby" /><br>
   <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap,discord" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git,github" /><br>
@@ -62,7 +60,6 @@ Atualmente estou evoluindo em áreas como <b>segurança de aplicações</b>, <b>
 <td valign="top" width="50%" align="center">
   <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=invejei&repo=NogBadgesV2&theme=dark&bg_color=8A00C4&title_color=e0fbfc&text_color=ffffff&hide_border=true&icon_color=ffffff&cache_seconds=86400"/>
 </td>
-```
 
   </tr>
 </table>
