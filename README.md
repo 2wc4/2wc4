@@ -1,68 +1,76 @@
-<!-- Banner  -->
-<a href="https://github.com/invejei">
-  <img src="https://i.ibb.co/Kcf7SQXr/nogdeveloper.png" alt="Banner"  style="width:100%; height:auto"/>
-</a>
+<!-- Banner -->
 
-</br>
+<p align="center">
+  <a href="https://github.com/invejei">
+    <img src="https://i.ibb.co/Kcf7SQXr/nogdeveloper.png" alt="Banner" width="100%"/>
+  </a>
+</p>
 
-<!-- Who am i? -->
-<img src="https://i.ibb.co/Fk1rfMZ3/SHIZUKI-MIZUKI.png" width=390 align="left">
-<div align="center">
+<br>
 
-**Who Am I?**
-</div>
+<!-- Who am I -->
 
-<div align="justify">
+<img src="https://i.ibb.co/Fk1rfMZ3/SHIZUKI-MIZUKI.png" width="360" align="left"/>
 
-Sou um **Desenvolvedor Full Stack** com foco na criação de **sistemas modernos, funcionais e escaláveis**, atuando tanto no **back-end** quanto no **front-end**. Atualmente, trabalho em projetos próprios e como **freelancer**, desenvolvendo soluções completas que vão desde a **arquitetura do sistema** até a **interface final do usuário**.
+<h3 align="center">Who Am I?</h3>
 
-Tenho experiência prática com tecnologias como **Node.js**, **React**, **Next.js**, além de trabalhar com **APIs, automações e integrações**, principalmente voltadas para plataformas como **Discord**. Ao longo dos meus projetos, desenvolvi sistemas como **bots avançados**, **painéis administrativos**, **sistemas de moderação com IA** e **ferramentas de automação**, sempre focando em desempenho e usabilidade.
+<p align="justify">
+Sou um <b>Desenvolvedor Full Stack</b> focado na criação de <b>sistemas modernos, funcionais e escaláveis</b>, atuando tanto no <b>back-end</b> quanto no <b>front-end</b>. Atualmente trabalho em projetos próprios e como <b>freelancer</b>, desenvolvendo soluções completas — desde a <b>arquitetura</b> até a <b>interface final</b>.
+</p>
 
-Também possuo conhecimento em **UI/UX design**, criando interfaces modernas e intuitivas com ferramentas e bibliotecas como **Tailwind CSS** e animações com **Framer Motion**, buscando sempre unir **design atrativo com funcionalidade real**.
+<p align="justify">
+Tenho experiência com <b>Node.js</b>, <b>React</b> e <b>Next.js</b>, além de atuar com <b>APIs, automações e integrações</b>, especialmente voltadas para <b>Discord</b>. Já desenvolvi <b>bots avançados</b>, <b>painéis administrativos</b>, <b>sistemas de moderação com IA</b> e <b>ferramentas de automação</b>, sempre priorizando desempenho e usabilidade.
+</p>
 
-Atualmente, estou em constante evolução, explorando áreas como **segurança de aplicações**, **otimização de sistemas** e **inteligência artificial aplicada**, sempre com o objetivo de entregar soluções completas e profissionais. Meu foco é crescer como desenvolvedor, construir projetos sólidos e gerar impacto real através da tecnologia.
+<p align="justify">
+Também trabalho com <b>UI/UX</b>, criando interfaces modernas usando <b>Tailwind CSS</b> e animações com <b>Framer Motion</b>, buscando unir <b>design e funcionalidade</b>.
+</p>
 
+<p align="justify">
+Atualmente estou evoluindo em áreas como <b>segurança de aplicações</b>, <b>otimização</b> e <b>inteligência artificial</b>, com foco em construir projetos sólidos e gerar impacto real.
+</p>
 
-</div>
+<br clear="left"/>
 
-</br>
-</br>
+---
 
-</div>
-</br>
-
-
-<img src="https://i.ibb.co/23h199Y1/aranha.png" width=106px align="right">
+<img src="https://i.ibb.co/23h199Y1/aranha.png" width="90" align="right"/>
 
 > [!Caution]
 >
 > O código nunca está pronto, só **melhora**.
 > >
 
-</br>
+<br>
+
+<!-- Skills + Project -->
+
 <table align="center">
   <tr>
-    <!-- Skills Left -->
-    <td valign="top" width="45%">
-      <img src="https://i.ibb.co/pvGcbbDs/nogui-tech.png">
-      </br>
-      </br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,c,cpp,cs,ruby" /><br>
-<img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap,discord" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=figma,vercel,vscode,obsidian,photoshop" /><br>
-    </td>
-    <!---->
-    <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=invejei&repo=NogBadgesV2&theme=dark&bg_color=8A00C4&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
-    </td>
+    <!-- Skills -->
+    <td valign="top" width="50%" align="center">
+      <img src="https://i.ibb.co/pvGcbbDs/nogui-tech.png"/><br><br>
+
+```
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,c,cpp,cs,ruby" /><br>
+  <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap,discord" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,vercel,vscode,obsidian,photoshop" /><br>
+</td>
+
+<!-- Featured Project -->
+<td valign="top" width="50%" align="center">
+  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=invejei&repo=NogBadgesV2&theme=dark&bg_color=8A00C4&title_color=e0fbfc&text_color=ffffff&hide_border=true&icon_color=ffffff&cache_seconds=86400"/>
+</td>
+```
+
   </tr>
 </table>
 
-
-
-
+<!-- Optional GIF -->
 
 <!--
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+<p align="center">
+  <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+</p>
 -->
