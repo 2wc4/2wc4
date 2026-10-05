@@ -1,7 +1,7 @@
 <br>
 
 <img
-  src="./49768af0424bc68da8ba68ab34052eb8[1].jpg"
+  src="./49768af0424bc68da8ba68ab34052eb8.jpg"
   width="300"
   align="left"
   style="border-radius: 50%;"
