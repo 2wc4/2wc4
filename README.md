@@ -85,7 +85,7 @@ Atualmente estou sempre estudando alguma coisa nova. Entre <b>Full Stack, Cybers
 <p align="justify">
 Estou constantemente explorando novas áreas e tecnologias. Atualmente meus estudos estão especialmente concentrados em <b>Cybersecurity, Reverse Engineering, AI Engineering, automação, desenvolvimento de ferramentas e sistemas de baixo nível</b>.
 </p>
----
+
 <p align="center">
   <sub>Building, breaking, learning and rebuilding.</sub>
 </p>
