@@ -19,7 +19,6 @@ Também venho dedicando bastante tempo a <b>Design e UI/UX</b>. Gosto de criar i
 <p align="justify">
 Atualmente estou sempre estudando alguma coisa nova. Entre <b>Full Stack, Cybersecurity, Reverse Engineering, AI Engineering, automações, Design e desenvolvimento de ferramentas</b>, meu objetivo é continuar evoluindo, construir projetos cada vez mais complexos e transformar tudo que aprendo em algo próprio.
 </p>
----
 
 ## Tech Stack & Ecosystem
 
@@ -76,8 +75,6 @@ Atualmente estou sempre estudando alguma coisa nova. Entre <b>Full Stack, Cybers
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,tailwind,css,html&theme=dark" />
 </p>
-
----
 
 ## Currently Exploring
 
