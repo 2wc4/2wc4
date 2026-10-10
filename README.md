@@ -1,12 +1,5 @@
 <br>
 
-<img
-  src="./49768af0424bc68da8ba68ab34052eb8.jpg"
-  width="300"
-  align="left"
-  style="border-radius: 50%;"
-/>
-
 <p align="justify">
 Meu nome é <b>Nog</b>, sou um <b>Desenvolvedor Full Stack</b> e apaixonado por tecnologia. Gosto de aprender na prática, criar meus próprios projetos e entender como as coisas funcionam por trás das interfaces. Estou sempre experimentando novas tecnologias, linguagens e ideias para transformar conceitos em projetos reais.
 </p>
@@ -26,13 +19,6 @@ Também venho dedicando bastante tempo a <b>Design e UI/UX</b>. Gosto de criar i
 <p align="justify">
 Atualmente estou sempre estudando alguma coisa nova. Entre <b>Full Stack, Cybersecurity, Reverse Engineering, AI Engineering, automações, Design e desenvolvimento de ferramentas</b>, meu objetivo é continuar evoluindo, construir projetos cada vez mais complexos e transformar tudo que aprendo em algo próprio.
 </p>
-
-<p align="justify">
-Além dos meus projetos pessoais, estou construindo a <b>SEC</b>, um grupo voltado para reunir outros desenvolvedores e pessoas interessadas em <b>programação, cybersecurity, tecnologia e aprendizado</b>. A ideia é criar um espaço para compartilhar conhecimento, projetos, experiências e evoluir juntos. Se quiser fazer parte, você pode entrar pelo convite <b>discord.gg/sec</b>.
-</p>
-
-<br clear="left"/>
-
 ---
 
 ## Tech Stack & Ecosystem
@@ -93,74 +79,6 @@ Além dos meus projetos pessoais, estou construindo a <b>SEC</b>, um grupo volta
 
 ---
 
-## Areas of Interest
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Development
-
-- Full Stack Development
-- Web Applications
-- API Architecture
-- Backend Systems
-- Real-time Applications
-- Discord Bots & Integrations
-- Automation & Tooling
-- Database Architecture
-
-</td>
-<td width="50%" valign="top">
-
-### Security & Research
-
-- Cybersecurity
-- Reverse Engineering
-- Malware Research
-- Offensive Security
-- Vulnerability Research
-- Software Analysis
-- Security Architecture
-- System Internals
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-- AI Engineering
-- AI-assisted Development
-- Autonomous Agents
-- LLM Applications
-- Intelligent Automation
-- AI Tooling
-- Agent Architecture
-
-</td>
-<td width="50%" valign="top">
-
-### Design & Experience
-
-- UI/UX
-- Web Design
-- Design Systems
-- Interactive Interfaces
-- Motion & Animation
-- Component Architecture
-- Visual Development
-
-</td>
-</tr>
-</table>
-
----
-
 ## Currently Exploring
 
 <p align="left">
@@ -170,35 +88,7 @@ Além dos meus projetos pessoais, estou construindo a <b>SEC</b>, um grupo volta
 <p align="justify">
 Estou constantemente explorando novas áreas e tecnologias. Atualmente meus estudos estão especialmente concentrados em <b>Cybersecurity, Reverse Engineering, AI Engineering, automação, desenvolvimento de ferramentas e sistemas de baixo nível</b>.
 </p>
-
 ---
-
-## SEC
-
-<p align="center">
-  <b>SEC</b>
-</p>
-
-<p align="center">
-Uma comunidade privada para <b>desenvolvedores e pesquisadores</b> interessados em tecnologia, engenharia e segurança, focada em <b>conhecimento, projetos, pesquisa e colaboração</b>.
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/sec">
-    <img src="https://img.shields.io/badge/Discord-Join%20SEC-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-
----
-
-## Contact
-
-  <a href="https://discord.gg/users/1548640089003786323">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <sub>Building, breaking, learning and rebuilding.</sub>
 </p>
